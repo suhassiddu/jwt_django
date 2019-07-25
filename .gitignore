@@ -1,0 +1,4 @@
+*.pyc
+/venv
+/db.sqlite3
+/busigence_test/staticfiles/*
