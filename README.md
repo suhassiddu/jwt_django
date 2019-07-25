@@ -1,8 +1,8 @@
-# jwt django test
+# JWT Django Base
 
 hosted on https://suhasjwt.herokuapp.com/
 
-# jwt react test
+# JWT React Base
 
 frontend git on https://github.com/suhassiddu/jwt_react/
 
